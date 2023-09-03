@@ -1,2 +1,3 @@
 # 1st-file
-this is my git repo
+this is my git repo <br>
+author - simran 
